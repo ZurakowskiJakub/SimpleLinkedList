@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Sphinx build dir
+docs/_build/
+
+# Python compiled files
+*.pyc
